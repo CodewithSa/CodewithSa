@@ -19,19 +19,23 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
 
+<img src="https://skillicons.dev/icons?i=aws" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
 
 </p>
 
@@ -43,26 +47,6 @@
 🐳 Docker & Kubernetes  
 🤖 Machine Learning Algorithms  
 🔐 Cloud Security  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
 
 ---
 
